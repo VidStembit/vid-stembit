@@ -1,0 +1,22 @@
+{
+    "name": "Vid Stembit",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "StemBit": "github:sbcshop/pxt-stembit#e42578be79bfad863855392a10b0790ceb70d5c3"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
